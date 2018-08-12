@@ -23,6 +23,11 @@
                 "id": 4,
                 "name": "GWModel Lab",
                 "status": true
+            },
+            {
+                "id": 5,
+                "name": "Others",
+                "status": true
             }
         ],
         "users": [
@@ -174,6 +179,18 @@
                 "id": 25,
                 "account": 2015302590104,
                 "groupId": 2,
+                "status": true
+            },
+            {
+                "id": 26,
+                "account": 2015302590144,
+                "groupId": 5,
+                "status": true
+            },
+            {
+                "id": 27,
+                "account": 2016302180031,
+                "groupId": 5,
                 "status": true
             }
         ]
